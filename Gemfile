@@ -27,6 +27,8 @@ gem "stimulus-rails"
 gem "simple_form"
 gem "sassc-rails"
 gem 'jbuilder'
+gem "cloudinary"
+
 
 gem "dotenv-rails", groups: [:development, :test]
 
