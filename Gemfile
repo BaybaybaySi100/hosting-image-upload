@@ -25,6 +25,7 @@ gem "turbo-rails"
 gem "stimulus-rails"
 
 gem "simple_form"
+gem "sassc-rails"
 gem 'jbuilder'
 
 # Use Redis adapter to run Action Cable in production
